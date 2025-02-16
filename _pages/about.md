@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Research activity : stochastic multiscale processes in biology."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Research activity : stochastic multiscale processes in biology.
 
 I am a post-doctoral fellow under the supervision of Jakob Ruess in the team Lifeware at INRIA Saclay.
 
