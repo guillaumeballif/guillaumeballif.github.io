@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Guillaume Ballif"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Post-doctoral fellowship in applied mathematics for life sciences"
+  location         : ""
   employer         : "Lifeware Team, INRIA Saclay"
   uri              : # URL
   email            : "guillaume.ballif@inria.fr" 
