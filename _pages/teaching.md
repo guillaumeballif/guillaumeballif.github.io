@@ -1,23 +1,22 @@
 ---
 permalink: /teaching/
-title: "teaching"
+title: "Teaching"
 author_profile: true
 redirect_from: 
   - /md/
   - /teaching.html
 ---
 
-## Locations of key files/directories
+## 2021-2022
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* **Probability and Statistics**, Teaching assistant in charge of exercise sessions\
+  1st year of computer science degree, IUT d'Orsay
+* **Graphs**, Teaching assistant in charge of exercise sessions\
+  1st year of computer science degree, IUT d'Orsay
+
+## 2020-2021
+
+* **Probability and Statistics**, Teaching assistant in charge of exercise sessions\
+  1st year of computer science degree, IUT d'Orsay
+* **Algebra**, Teaching assistant in charge of exercise sessions\
+  1st year of computer science degree, IUT d'Orsay
