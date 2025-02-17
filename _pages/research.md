@@ -7,17 +7,11 @@ redirect_from:
   - /research.html
 ---
 
-## Locations of key files/directories
+## Articles
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* **Stochastic chemical kinetics of cell fate decision systems: from single cells to populations and back**, 2023
+  J.Ruess, G. Ballif & C. Aditya. _The Journal of Chemical Physics_, Vol. 159(18).
+* **Nonlinear compartmental modeling to monitor ovarian follicle population dynamics on the whole lifespan**, 2024
+  G. Ballif, F. Clément & R. Yvinec. _Journal of Mathematical Biology_, Vol. 89(9).
+* **Averaging of a stochastic slow-fast model for population dynamics: application to the development of ovarian follicles**, 2022
+  G. Ballif, F. Clément & R. Yvinec. _SIAM Journal of Applied Mathematics_, Vol. 82(1).
