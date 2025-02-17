@@ -4,7 +4,7 @@ title: "teaching"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /teaching.html
 ---
 
 ## Locations of key files/directories
