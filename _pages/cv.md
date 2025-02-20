@@ -7,30 +7,22 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
-Education
+Research experience
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Postdoc researcher in INRIA Saclay under the supervision of Jakob Ruess
+* Ph.D in Applied Mathematics, Ecole Polytechnique, 2019-2022
+* Research internship, Concordia University, Montréal, 2018-2019
+* 2nd year of Master internship, Ecole Polytechnique, 2018
 
-Work experience
+Studies
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2nd year of Master _Mathematics for Life Sciences_, 2017-2018
+  * 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Mathematics, ENS Paris-Saclay, 2015-2019
+  * 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
@@ -59,6 +51,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
