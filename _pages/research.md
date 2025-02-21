@@ -19,7 +19,7 @@ redirect_from:
   G. Ballif, F. Clément & R. Yvinec. _SIAM Journal of Applied Mathematics_, Vol. 82(1).\
   [PDF](https://hal.science/hal-03405177v1)
 * **Modélisation et analyse stochastique multi-échelle en dynamique des populations : application à la population folliculaire ovarienne**, 2022
-  PhD Thesis
+  PhD Thesis\
   [PDF](https://theses.hal.science/tel-04449460)
 
 ## Talks
