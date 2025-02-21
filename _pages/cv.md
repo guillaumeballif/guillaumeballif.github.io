@@ -11,17 +11,18 @@ redirect_from:
 Research experience
 ======
 * Postdoc researcher in INRIA Saclay under the supervision of Jakob Ruess
-* Ph.D in Applied Mathematics, Ecole Polytechnique, 2019-2022
-* Research internship, Concordia University, Montréal, 2018-2019
-* 2nd year of Master internship, Ecole Polytechnique, 2018
+* Ph.D in Applied Mathematics, _Romain Yvinec & Frédérique Clément_\
+  INRIA Saclay & INRAE Centre Val de Loire, 2019-2022
+* Research internship, _Léa Popovic_\
+  Concordia University, Montréal, 2018-2019
+* 2nd year of Master internship, _Sylvie Méleard & Meriem El Karoui_\
+  CMAP, Ecole Polytechnique, April-July 2018
 
 Studies
 ======
-* 2nd year of Master _Mathematics for Life Sciences_, 2017-2018
-  * 
-
+* 2nd year of Master _Mathematics for Life Sciences_\
+  Faculté d'Orsay, 2017-2018
 * Mathematics, ENS Paris-Saclay, 2015-2019
-  * 
 
 Articles
 ======
