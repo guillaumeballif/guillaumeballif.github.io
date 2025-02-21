@@ -22,7 +22,7 @@ repository               : "guillaumeballif.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo_site_web.jpeg"
   name             : "Guillaume Ballif"
   pronouns         : # example: "she/her"  
   bio              : "Post-doctoral fellow in applied mathematics for life sciences"
