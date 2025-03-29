@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Research activity : stochastic multiscale processes in biology."
+title: "Guillaume Ballif"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+## Research activity : stochastic multiscale processes in biology.
 
 I am a post-doctoral fellow under the supervision of Jakob Ruess in the team Lifeware at INRIA Saclay.
 
