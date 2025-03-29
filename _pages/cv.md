@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Research experience
+## Research experience
 ======
 * Postdoc researcher in INRIA Saclay under the supervision of Jakob Ruess
 * Ph.D in Applied Mathematics, _Romain Yvinec & Frédérique Clément_\
@@ -18,13 +18,13 @@ Research experience
 * 2nd year of Master internship, _Sylvie Méleard & Meriem El Karoui_\
   CMAP, Ecole Polytechnique, April-July 2018
 
-Studies
+## Studies
 ======
 * 2nd year of Master _Mathematics for Life Sciences_\
   Faculté d'Orsay, 2017-2018
 * Mathematics, ENS Paris-Saclay, 2015-2019
 
-Articles
+## Articles
 ======
 * **Stochastic chemical kinetics of cell fate decision systems: from single cells to populations and back**, 2023.\
   J.Ruess, G. Ballif & C. Aditya. _The Journal of Chemical Physics_, Vol. 159(18).\
@@ -39,14 +39,14 @@ Articles
   PhD Thesis\
   [PDF](https://theses.hal.science/tel-04449460)
 
-Talks
+## Talks
 ======
 * Congrès des Jeunes Chercheurs en Mathématiques Appliqués, Lyon, Oct. 2024.\
   **Stochastic model coupling chemical kinetics and cell population dynamics**
 * Workshop organised by Jakob Ruess, INRIA Saclay, March 2024.\
   **Stochastic model coupling chemical kinetics and cell population dynamics: An extension of the Chemical Master Equation**
   
-Skills
+## Skills
 ======
 * Programming: Python (advanced), R (beginner)
 * Languages: French (native), English (intermediate)
