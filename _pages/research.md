@@ -24,6 +24,8 @@ redirect_from:
 
 ## Talks
 
+* Probability and Statistics seminar, Institut Elie Cartan de Lorraine, Nov. 2024.\
+  **Stochastic models for cell population dynamics : application to experimental data**
 * Congrès des Jeunes Chercheurs en Mathématiques Appliqués, Lyon, Oct. 2024.\
   **Stochastic model coupling chemical kinetics and cell population dynamics**
 * Workshop organised by Jakob Ruess, INRIA Saclay, March 2024.\
