@@ -9,6 +9,9 @@ redirect_from:
 
 ## Articles
 
+* **A partition method for bounding continuous-time Markov chain models of general reaction network**, 2025.\
+  G. Ballif, L. Pfeiffer & J. Ruess. _under review in Mathematical Biosciences_.\
+  [PDF](https://arxiv.org/abs/2505.18735)
 * **Stochastic chemical kinetics of cell fate decision systems: from single cells to populations and back**, 2023.\
   J.Ruess, G. Ballif & C. Aditya. _The Journal of Chemical Physics_, Vol. 159(18).\
   [PDF](https://inria.hal.science/hal-04275681v1)
